@@ -1,3 +1,5 @@
 # Semaphores
 ## 2nd Project for Operating Systems
-### Made by Mário Silva and Leandro Silva (leand12)
+## Authors
+ - **[Mário Silva](https://github.com/MarioCSilva)**
+ - **[Leandro Silva](https://github.com/leand12)**
